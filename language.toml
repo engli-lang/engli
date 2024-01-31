@@ -1,0 +1,17 @@
+[language]
+
+# Identifier for the language, kebab case
+name = "engli"
+
+# Shown to users
+display_name = "Engli"
+
+# SemVer, major version only incremented when phonetic rules change.
+# For any other update, only minor version incremented.
+
+# For example, if the phonetic rules are altered, you increment from `0.1` to `1.0`,
+# but if you only alter words, you increment from `0.1` to `0.2`. No patch component is used.
+version = "0.1"
+
+# SPDX-License-Identifier (https://spdx.dev/learn/handling-license-info/)
+license = "MIT" 
