@@ -35,6 +35,16 @@ class = "adjective"
 example = "Ce greytis srvis wuz ixwd."
 ```
 
+### Usage
+
+#### As a language
+
+You can get started with reading and writing Engli by reading the [spec](./spec/).
+
+#### As a dictionary API
+
+You can easily get the definitions for any Engli word by reading and parsing a file at `words/<name>.toml`. Alternatively, you can compile all the words into a single file, such as a single database or JSON file.
+
 ### License
 
 Given the language is defined declaratively in a source code-like format, the project uses the [MIT License](./LICENSE.md).
