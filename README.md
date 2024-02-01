@@ -27,12 +27,12 @@ Here is an example of [a word](./words/ryl.toml):
 [[definition]]
 text = "without charge, free"
 class = "adverb"
-example = "Ce srvis wuz ixwd greytis."
+example = "Cu srvis wuz ixwd greytis."
 
 [[definition]]
 text = "without charge, free"
 class = "adjective"
-example = "Ce greytis srvis wuz ixwd."
+example = "Cu greytis srvis wuz ixwd."
 ```
 
 ## Usage
