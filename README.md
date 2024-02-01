@@ -1,6 +1,6 @@
 # Engli
 
-### Language Overview
+## Language Overview
 
 Engli is a new language based on English with some changes aiming to make it more logical, and easier to learn.
 
@@ -15,7 +15,7 @@ Here are some of its key features:
 
 A full specification can be found in the [`spec/`](./spec/) directory.
 
-### Technical Description
+## Technical Description
 
 Engli is a declaratively defined community "fork" of English with 0 collisions, 0 ambiguity, fully deterministic spelling/pronunciation via rigid phonetics, and more.
 
@@ -35,26 +35,26 @@ class = "adjective"
 example = "Ce greytis srvis wuz ixwd."
 ```
 
-### Usage
+## Usage
 
-#### As a language
+### As a language
 
 You can get started with reading and writing Engli by reading the [spec](./spec/).
 
-#### As a dictionary API
+### As a dictionary API
 
 You can easily get the definitions for any Engli word by reading and parsing a file at `words/<name>.toml`. Alternatively, you can compile all the words into a single file, such as a single database or JSON file.
 
-### License
+## License
 
 Given the language is defined declaratively in a source code-like format, the project uses the [MIT License](./LICENSE.md).
 
-### FAQ
+## FAQ
 
-#### Q: Is this really a new language or just a different way to write English?
+### Q: Is this really a new language or just a different way to write English?
 
 **A:** Engli is a new language based on English and not just a different way to write it. Engli differs in words, such as splitting the English word "free" into the Engli words "libr" and "greytis." Pronunciation will also differ in certain words.
 
-#### Q: Why not use a Creative Commons license?
+### Q: Why not use a Creative Commons license?
 
 **A:** While Creative Commons licenses are more common on projects of this kind, Engli is defined declaratively in a source code-like format. We felt the [MIT License](./LICENSE.md) would be more appropriate in this case.
