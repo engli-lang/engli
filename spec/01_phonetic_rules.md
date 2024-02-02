@@ -8,7 +8,7 @@ Here is a table of the English sounds each letter corresponds to in Engli:
 
 | Engli Letter | English Sound | English Sound Example |
 |--------------|---------------|-----------------------|
-| a            | aa            | **a**wesome           |
+| a            | aa            | **a**t                |
 | b            | b             | **b**arely            |
 | c            | th (hard)     | **th**en              |
 | d            | d             | **d**og               |
