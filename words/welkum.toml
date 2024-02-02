@@ -2,3 +2,8 @@
 text = "greets someone in a friendly way"
 class = "exclamation"
 example = "Welkum huwm."
+
+[[definition]]
+text = "a manner of greeting someone"
+class = "noun"
+example = "Wy wil welkum yw huwm."
